@@ -7,7 +7,7 @@
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "scripts": {
-    "start": "tsc && node ."
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/node": "^14.11.5",
