@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/entre-lol.svg)](https://badge.fury.io/js/entre-lol)
+
 # Entre-LOL
 
 It's a module to interact with LCU WebSocketServer
