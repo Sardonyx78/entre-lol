@@ -1,0 +1,20 @@
+{
+  "name": "entre-lol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "author": "Sardonyx78 <sardonyx@sardonyx.me>",
+  "license": "MIT",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "start": "tsc && node ."
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.5",
+    "@types/ws": "^7.2.7"
+  },
+  "dependencies": {
+    "tslib": "^2.0.2",
+    "ws": "^7.3.1"
+  }
+}
