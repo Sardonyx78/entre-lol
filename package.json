@@ -4,6 +4,9 @@
   "description": "",
   "main": "dist/index.js",
   "author": "Sardonyx78 <sardonyx@sardonyx.me>",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "scripts": {
